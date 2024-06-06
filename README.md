@@ -1,5 +1,5 @@
-# Resume-
-# Akash Lakhwan - Resume
+# Resume- Akash Lakhwan
+# Akash Lakhwan - Resume (https://linkedin.com/in/akash-lakhwan-5a729a250)
 
 This is a simple HTML resume template for showcasing personal information, skills, work experience, education, projects, achievements, and responsibilities.
 
